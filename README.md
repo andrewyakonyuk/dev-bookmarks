@@ -6,6 +6,7 @@ A collection of frameworks, libraries, tools, resources and software.
 ## Frameworks, Libraries and Tools
 ### Backend
 #### Application framework
+ - [ASP.NET Core MVC](https://github.com/aspnet/Mvc) -  a model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
  - [Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
  - [Akka.net](https://github.com/akkadotnet/akka.net) - Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono
  - [Orleans](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straightforward approach to building distributed high-scale computing applications
@@ -36,6 +37,10 @@ A collection of frameworks, libraries, tools, resources and software.
 #### Frameworks
  - [AMP](https://github.com/ampproject/amphtml) - The AMP Project is an open-source initiative aiming to make the web better for all. The project enables the creation of websites and ads that are consistently fast, beautiful and high-performing across devices and distribution platforms
  - [vuejs](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+
+### Content management systems (CMS)
+ - [Orchard](https://github.com/OrchardCMS/Orchard2) - Open source content Mmanagement system built with ASP.NET Core on top of modular and extensible application framework
+ - [Umbraco](https://github.com/umbraco/Umbraco-CMS) - a free open source Content Management System built on the ASP.NET platform.
 
 ### Guides and practices
  - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript
@@ -71,7 +76,6 @@ A collection of frameworks, libraries, tools, resources and software.
 ## Sample projects
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Microservices Architecture and Containers based Reference Application
 - [lokad-cqrs](https://github.com/Lokad/lokad-cqrs) - Lokad.CQRS is a sample project from Lokad to share experience with CQRS/DDD and ES.
-It includes sources of components and tools that saved days in dev and production.
 - [Fohjin](https://github.com/MarkNijhof/Fohjin) - reference project with explaination of the patterns that make up CQRS
 - [akkadotnet-code-samples](https://github.com/petabridge/akkadotnet-code-samples) - Akka.NET professional reference code samples
 - [Winds](https://github.com/GetStream/Winds) - Winds is an open source & beautiful RSS reader built using React/Redux/Sails/Node and Stream (https://getstream.io). It showcases personalized feeds powered by the https://getstream.io API.
