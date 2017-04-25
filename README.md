@@ -2,6 +2,9 @@
 A collection of frameworks, libraries, tools, resources and software.
 
 ## General
+ - [Semantic Versioning](http://semver.org/)
+ - [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/)
+ - [The Reactive Manifesto](http://www.reactivemanifesto.org/)
 
 ## Frameworks, Libraries and Tools
 ### Backend
@@ -11,10 +14,8 @@ A collection of frameworks, libraries, tools, resources and software.
  - [Akka.net](https://github.com/akkadotnet/akka.net) - Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono
  - [Orleans](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straightforward approach to building distributed high-scale computing applications
  - [ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all 
- - [Even](https://github.com/evendotnet/Even) - An event sourcing framework on top of Akka.NET 
  - [BotBuilder](https://github.com/Microsoft/BotBuilder) - The Microsoft Bot Framework provides just what you need to build and connect intelligent bots that interact naturally wherever your users are talking
  - [parse-server](https://github.com/parse-community/parse-server) - Parse-compatible API server module for Node/Expres
- - [Incoding framework](https://github.com/Incoding-Software/Incoding-Framework)
  - [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate is a starting point for new modern web applications using best practices and popular tools.
 
 #### Debugger
@@ -48,6 +49,8 @@ A collection of frameworks, libraries, tools, resources and software.
  - [Security 101 for SAAS startups](https://github.com/forter/security-101-for-saas-startups) - security tips for startups
  - [System design primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems
  - [Interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
+ - [Become a git guru](https://www.atlassian.com/git/tutorials)
+ - [Orchard Engineering Guidelines](https://github.com/OrchardCMS/Orchard2/wiki/Engineering-Guidelines)
 
 ### eCommerce
  - [vc-platform](https://github.com/VirtoCommerce/vc-platform) - Virto Commerce is the second generation release and is the only enterprise level e-commerce product 
