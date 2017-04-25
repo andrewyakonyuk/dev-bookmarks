@@ -6,6 +6,19 @@ A collection of frameworks, libraries, tools, resources and software.
  - [Keep a CHANGELOG](http://keepachangelog.com/en/0.3.0/)
  - [The Reactive Manifesto](http://www.reactivemanifesto.org/)
 
+## Blogs and podcasts
+ - [Блог Александра Бындю](http://blog.byndyu.ru/) - IT-архитектор, эксперт в Agile и Lean
+ - [Rinat Abdullin](https://abdullin.com/)
+ - [Ayende Rahien](https://ayende.com/blog/) - Founder of Hibernating Rhinos LTD and RavenDB
+ - [8thlight](https://8thlight.com/blog)
+ - [Addy Osmani](https://addyosmani.com/blog/) - Engineering manager at Google working on Chrome
+ - [The Clean Code Blog](http://blog.cleancoder.com/) - by Robert C. Martin (Uncle Bob)
+ - [Блог Сергея Теплякова](http://sergeyteplyakov.blogspot.co.uk/)
+ - [Hazzik's blog](http://blog.hazzik.ru/)
+ - [SCOTT HANSELMAN](https://www.hanselman.com/blog/)
+ - [Coding horror](https://blog.codinghorror.com)
+ - [You've Been Haacked](http://haacked.com/)
+
 ## Frameworks, Libraries and Tools
 ### Backend
 #### Application framework
