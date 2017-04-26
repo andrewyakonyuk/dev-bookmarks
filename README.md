@@ -18,6 +18,7 @@ A collection of frameworks, libraries, tools, resources and software.
  - [SCOTT HANSELMAN](https://www.hanselman.com/blog/)
  - [Coding horror](https://blog.codinghorror.com)
  - [You've Been Haacked](http://haacked.com/)
+ - [High scalability](http://highscalability.com/)
 
 ## Frameworks, Libraries and Tools
 ### Backend
