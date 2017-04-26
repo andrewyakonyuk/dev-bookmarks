@@ -19,6 +19,9 @@ A collection of frameworks, libraries, tools, resources and software.
  - [Coding horror](https://blog.codinghorror.com)
  - [You've Been Haacked](http://haacked.com/)
  - [High scalability](http://highscalability.com/)
+ - [ScottGu's Blog](https://weblogs.asp.net/scottgu)
+ - [freecodecamp](https://medium.freecodecamp.com/)
+ - [Eric Lippert](https://ericlippert.com/)
 
 ## Frameworks, Libraries and Tools
 ### Backend
