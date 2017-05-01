@@ -22,6 +22,7 @@ A collection of frameworks, libraries, tools, resources and software.
  - [ScottGu's Blog](https://weblogs.asp.net/scottgu)
  - [freecodecamp](https://medium.freecodecamp.com/)
  - [Eric Lippert](https://ericlippert.com/)
+ - [Pivotal](https://content.pivotal.io/podcasts) - Listen to Cloud, Data, and Agile experts talk about the latest in technology.
 
 ## Frameworks, Libraries and Tools
 ### Backend
