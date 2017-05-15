@@ -103,3 +103,5 @@ A collection of frameworks, libraries, tools, resources and software.
 - [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core application with DDD, CQRS and Event Sourcing 
 - [android-architecture](https://github.com/googlesamples/android-architecture) - A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
 - [ByndyuSoft.Dotnet.Infrastructure](https://github.com/Byndyusoft/ByndyuSoft.Dotnet.Infrastructure) - Infrastructure for regular .NET projects 
+- [bitwarden/core](https://github.com/bitwarden/core) - Open source password management solutions
+- [Exceptionless](https://github.com/exceptionless/Exceptionless) - Real-time error, feature, and log reporting for ASP.NET, Web API, WebForms, WPF, Console, and MVC apps
