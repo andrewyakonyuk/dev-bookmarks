@@ -105,3 +105,7 @@ A collection of frameworks, libraries, tools, resources and software.
 - [ByndyuSoft.Dotnet.Infrastructure](https://github.com/Byndyusoft/ByndyuSoft.Dotnet.Infrastructure) - Infrastructure for regular .NET projects 
 - [bitwarden/core](https://github.com/bitwarden/core) - Open source password management solutions
 - [Exceptionless](https://github.com/exceptionless/Exceptionless) - Real-time error, feature, and log reporting for ASP.NET, Web API, WebForms, WPF, Console, and MVC apps
+
+## Other
+- [Fake it](http://fake-it.cc/) - Might be useful for test purposes
+- [Hola](http://hola.org/) - Free VPN
