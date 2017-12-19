@@ -47,21 +47,29 @@ A collection of frameworks, libraries, tools, resources and software.
  - [tusdotnet](https://github.com/smatsson/tusdotnet) - .NET server implementation of the Tus protocol for resumable file uploads. Read more at http://tus.io
  - [Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.
  - [Foundatio.Parsers](https://github.com/exceptionless/Foundatio.Parsers) - A lucene style query parser that is extensible and allows modifying the query.
+ - [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET 
+ - [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET
 
 #### ORM
  - [NHibernate](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper
  - [Dapper](https://github.com/StackExchange/Dapper) - Dapper - a simple object mapper for .Net
 
+#### Background and recuring jobs
+ - [HangFire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required 
+ - [Quartz.net](https://github.com/quartznet/quartznet) - Quartz.NET is a port of Java Quartz which is an enterprise class job sheduling system.
+
 ### Frontend
-#### Frameworks
+#### Libraries
  - [AMP](https://github.com/ampproject/amphtml) - The AMP Project is an open-source initiative aiming to make the web better for all. The project enables the creation of websites and ads that are consistently fast, beautiful and high-performing across devices and distribution platforms
  - [vuejs](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+ - [jquery-pjax](https://github.com/defunkt/jquery-pjax) - pushState + ajax = pjax
 
 ### Content management systems (CMS)
  - [Orchard](https://github.com/OrchardCMS/Orchard2) - Open source content Mmanagement system built with ASP.NET Core on top of modular and extensible application framework
  - [Umbraco](https://github.com/umbraco/Umbraco-CMS) - a free open source Content Management System built on the ASP.NET platform.
 
 ### Guides and practices
+ - [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
  - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) - A mostly reasonable approach to JavaScript
  - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation
  - [Security 101 for SAAS startups](https://github.com/forter/security-101-for-saas-startups) - security tips for startups
@@ -87,6 +95,9 @@ A collection of frameworks, libraries, tools, resources and software.
  - [beehive](https://github.com/muesli/beehive) - A flexible event and agent system with lots of bees
  - [Apache Storm](https://github.com/apache/storm) - Storm is a distributed realtime computation system
 
+### Unit and Integration testing
+ - [FsCheck](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
+
 ### Tools
  - [OptiKey](https://github.com/OptiKey/OptiKey) - Full computer control and speech with your eyes 
  - [TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data
@@ -105,7 +116,10 @@ A collection of frameworks, libraries, tools, resources and software.
 - [ByndyuSoft.Dotnet.Infrastructure](https://github.com/Byndyusoft/ByndyuSoft.Dotnet.Infrastructure) - Infrastructure for regular .NET projects 
 - [bitwarden/core](https://github.com/bitwarden/core) - Open source password management solutions
 - [Exceptionless](https://github.com/exceptionless/Exceptionless) - Real-time error, feature, and log reporting for ASP.NET, Web API, WebForms, WPF, Console, and MVC apps
+- [aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app) - ASP.NET Core backend implementation for RealWorld 
+- [aspnet/Entropy](https://github.com/aspnet/Entropy) - A chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
 
 ## Other
+- [Localtunnel](https://localtunnel.github.io/www/) - Localtunnel allows you to easily share a web service on your local development machine without messing with DNS and firewall settings.
 - [Fake it](http://fake-it.cc/) - Might be useful for test purposes
 - [Hola](http://hola.org/) - Free VPN
