@@ -123,3 +123,4 @@ A collection of frameworks, libraries, tools, resources and software.
 - [Localtunnel](https://localtunnel.github.io/www/) - Localtunnel allows you to easily share a web service on your local development machine without messing with DNS and firewall settings.
 - [Fake it](http://fake-it.cc/) - Might be useful for test purposes
 - [Hola](http://hola.org/) - Free VPN
+- [Death by Captcha](https://deathbycaptcha.com) - Captcha solving service.
