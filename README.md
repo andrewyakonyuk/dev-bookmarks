@@ -99,11 +99,17 @@ A collection of frameworks, libraries, tools, resources and software.
  - [FsCheck](https://github.com/fscheck/FsCheck) - Random Testing for .NET.
 
 ### Tools
- - [OptiKey](https://github.com/OptiKey/OptiKey) - Full computer control and speech with your eyes 
- - [TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data
- - [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
- - [oklog](https://github.com/oklog/oklog) - A distributed and coördination-free log management system
- - [Glimpse](https://github.com/Glimpse/Glimpse) - The open source diagnostics platform for the web
+- [TailBlazer](https://github.com/RolandPheasant/TailBlazer) - A modern file tail utility based on Rx.Net which show cases reactive programming and Dynamic Data
+- [Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy
+- [QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows 
+- [Localtunnel](https://localtunnel.github.io/www/) - Localtunnel allows you to easily share a web service on your local development machine without messing with DNS and firewall settings.
+- [Fake it](http://fake-it.cc/) - Might be useful for test purposes
+- [Hola](http://hola.org/) - Free VPN
+- [Death by Captcha](https://deathbycaptcha.com) - Captcha solving service.
+- [oklog](https://github.com/oklog/oklog) - A distributed and coördination-free log management system
+- [Glimpse](https://github.com/Glimpse/Glimpse) - The open source diagnostics platform for the web
+- [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
+- [OptiKey](https://github.com/OptiKey/OptiKey) - Full computer control and speech with your eyes 
 
 ## Sample projects
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Microservices Architecture and Containers based Reference Application
@@ -118,11 +124,3 @@ A collection of frameworks, libraries, tools, resources and software.
 - [Exceptionless](https://github.com/exceptionless/Exceptionless) - Real-time error, feature, and log reporting for ASP.NET, Web API, WebForms, WPF, Console, and MVC apps
 - [aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app) - ASP.NET Core backend implementation for RealWorld 
 - [aspnet/Entropy](https://github.com/aspnet/Entropy) - A chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
-
-## Tools
-- [Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy
-- [QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows 
-- [Localtunnel](https://localtunnel.github.io/www/) - Localtunnel allows you to easily share a web service on your local development machine without messing with DNS and firewall settings.
-- [Fake it](http://fake-it.cc/) - Might be useful for test purposes
-- [Hola](http://hola.org/) - Free VPN
-- [Death by Captcha](https://deathbycaptcha.com) - Captcha solving service.
