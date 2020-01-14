@@ -119,7 +119,9 @@ A collection of frameworks, libraries, tools, resources and software.
 - [aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app) - ASP.NET Core backend implementation for RealWorld 
 - [aspnet/Entropy](https://github.com/aspnet/Entropy) - A chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
 
-## Other
+## Tools
+- [Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy
+- [QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows 
 - [Localtunnel](https://localtunnel.github.io/www/) - Localtunnel allows you to easily share a web service on your local development machine without messing with DNS and firewall settings.
 - [Fake it](http://fake-it.cc/) - Might be useful for test purposes
 - [Hola](http://hola.org/) - Free VPN
