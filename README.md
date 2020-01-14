@@ -103,6 +103,7 @@ A collection of frameworks, libraries, tools, resources and software.
 - [Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy
 - [QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows 
 - [Localtunnel](https://localtunnel.github.io/www/) - Localtunnel allows you to easily share a web service on your local development machine without messing with DNS and firewall settings.
+- [CarambaSwitcher](https://caramba-switcher.com/) - keyboard layout switcher for russian and english languages.
 - [Fake it](http://fake-it.cc/) - Might be useful for test purposes
 - [Hola](http://hola.org/) - Free VPN
 - [Death by Captcha](https://deathbycaptcha.com) - Captcha solving service.
